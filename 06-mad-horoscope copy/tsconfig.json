@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outDir": "../06-hogwarts-house-cup/build"
+    },
+    "files": ["../06-hogwarts-house-cup/src/index.ts"]
+}
