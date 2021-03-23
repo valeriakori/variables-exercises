@@ -1,6 +1,7 @@
 /*
 * Print a string of the house ranking of Hogwarts.
-* Use the object lookup operator.
+* Use the the 2 different object lookup operators.
+* 
 * The result should look something like this:
 * `Gryffindor wins the house cup with 481 points! 
 * Raveclaw is a close second with 450 points.`

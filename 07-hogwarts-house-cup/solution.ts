@@ -1,7 +1,11 @@
-const noun = "Zebra";
-const adjective = "exhiliatory";
-const pluralNoun = "Bean bags";
+const housePoints = {
+    gryffindor: 481,
+    hufflepuff: 293,
+    slytherin: 329,
+    ravenclaw: 450
+}
 
-const fortune = `Those born under the planetary sign of the ${noun} possess ${adjective} personalities and are forever searching for new ${pluralNoun} to conquer.`;
-
-console.log(fortune);
+const ranking = `Gryffindor wins the house cup with ${housePoints["gryffindor"]} points! 
+Raveclaw is a close second with ${housePoints["ravenclaw"]} points.
+Hufflepuff takes the third place with ${housePoints.hufflepuff} points.
+And last but not least Slytherin with ${housePoints.slytherin} points.`
